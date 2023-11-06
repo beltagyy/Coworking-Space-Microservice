@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
       - name: user-api
-        image: isjustintime/cd12355-user-api:0.1.0
+        image: 552527590089.dkr.ecr.us-east-1.amazonaws.com/coworkingspace:1
         imagePullPolicy: Always
         livenessProbe:
           httpGet:

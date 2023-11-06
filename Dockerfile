@@ -23,4 +23,5 @@ EXPOSE 5153
 # ENV NAME World
 
 # Run app.py when the container launches
+WORKDIR /usr/src/app/analytics
 CMD ["python", "app.py"]

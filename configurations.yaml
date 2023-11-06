@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: example
-        image: DOCKER_REPOSITORY_ORG/DOCKER_IMAGE_NAME:VERSION_TAG
+        image: 552527590089.dkr.ecr.us-east-1.amazonaws.com/coworkingspace:1
         imagePullPolicy: Always
         livenessProbe:
           httpGet:
