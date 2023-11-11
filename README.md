@@ -51,4 +51,4 @@ The merge into the main branch triggers an automated deployment sequence:
 
 ## Additional Resources
 
-For more detailed instructions, best practices, and guidelines, please refer to the project's wiki and documentation pages on the repository. Your contributions are invaluable, and we look forward to your innovative solutions to enhance our Coworking Space Service.
+For more detailed instructions, best practices, and guidelines, please refer to the project's wiki and documentation pages on the repository.
