@@ -51,4 +51,4 @@ The merge into the main branch triggers an automated deployment sequence:
 
 ## Additional Resources
 
-For more detailed instructions, best practices, and guidelines, please refer to the project's wiki and documentation pages on the repository.
+- For more detailed instructions, best practices, and guidelines, please refer to the project's wiki and documentation pages on the repository.
